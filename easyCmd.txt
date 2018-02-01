@@ -1,0 +1,7 @@
+#打包后，以 bzip2 压缩
+alias tarbz2=tar -jcvf 
+
+#解压tar bzip2
+alias untarbz2=tar jxvf
+
+alias make=make -j8
